@@ -1,0 +1,14 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package ELschleifentool.model;
+
+public enum GebäudeTyp {
+    HAUPTQUARTIER, BIOZELLE, BUNKER, FARM, EISENMINE, TITANMINE, BOHRTURM,
+    CHEMIEFABRIK, RECYCLINGCENTER, NAHRUNGSSILO, EISENSPEICHER, TITANSPEICHER,
+    WASSERSPEICHER, WASSERSTOFFSPEICHER, UNIVERSITÄT, VERGNÜGUNGSZENTRUM,
+    SCHIFFSFABRIK, VERTEIDIGUNGSSTATION, FLOTTENKONTROLLZENTRUM,
+    SCHILDGENERATOR, WELTRAUMHAFEN, PALAST, KERNFORSCHUNGSZENTRUM, STATUE
+}
