@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package ELschleifentool.gebäude;
+package gebäude;
 
-import ELschleifentool.model.MyPlani;
-import ELschleifentool.network.Repository;
+import model.MyPlani;
+import network.Repository;
 import java.awt.Color;
 import java.awt.Component;
 import javax.swing.JTable;

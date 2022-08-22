@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package ELschleifentool.ui;
+package ui;
 
-import ELschleifentool.interfaces.LoginListener;
-import ELschleifentool.model.BotschutzClickListener;
-import ELschleifentool.model.BotschutzInterface;
-import ELschleifentool.model.IntroPage;
-import ELschleifentool.network.NetworkRequest;
+import interfaces.LoginListener;
+import model.BotschutzClickListener;
+import model.BotschutzInterface;
+import model.IntroPage;
+import network.NetworkRequest;
 import java.util.prefs.Preferences;
 import retrofit2.Call;
 import retrofit2.Callback;

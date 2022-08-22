@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.model;
+package model;
 
-import ELschleifentool.model.GebäudeTyp;
-import ELschleifentool.model.Ress;
-import ELschleifentool.model.ForschungsTyp;
-import ELschleifentool.model.TurmTyp;
-import ELschleifentool.model.RessTyp;
-import ELschleifentool.model.Schiffstyp;
+import model.GebäudeTyp;
+import model.Ress;
+import model.ForschungsTyp;
+import model.TurmTyp;
+import model.RessTyp;
+import model.Schiffstyp;
 import static java.util.Arrays.asList;
 import java.util.EnumMap;
 import java.util.HashMap;

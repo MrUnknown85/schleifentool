@@ -1,14 +1,14 @@
-package ELschleifentool.ui;
+package ui;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-import ELschleifentool.model.BotschutzClickListener;
-import ELschleifentool.model.BotschutzInterface;
-import ELschleifentool.model.BotschutzParams;
-import ELschleifentool.util.Log;
+import model.BotschutzClickListener;
+import model.BotschutzInterface;
+import model.BotschutzParams;
+import util.Log;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;

@@ -1,6 +1,6 @@
-package ELschleifentool.util;
+package util;
 
-import ELschleifentool.model.MyPlani;
+import model.MyPlani;
 import java.util.Comparator;
 
 /*

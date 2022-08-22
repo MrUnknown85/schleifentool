@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package ELschleifentool.ui;
+package ui;
 
-import ELschleifentool.gebäude.GebäudebauPanel;
-import ELschleifentool.interfaces.LoginListener;
-import ELschleifentool.network.Repository;
-import ELschleifentool.schiffsbau.SchiffsbauPanel;
-import ELschleifentool.util.Log;
+import gebäude.GebäudebauPanel;
+import interfaces.LoginListener;
+import network.Repository;
+import schiffsbau.SchiffsbauPanel;
+import util.Log;
 import java.io.FileNotFoundException;
 import java.io.PrintStream;
 import java.util.ArrayList;

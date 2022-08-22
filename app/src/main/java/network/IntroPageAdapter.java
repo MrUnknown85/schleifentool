@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.network;
+package network;
 
-import ELschleifentool.model.IntroPage;
-import ELschleifentool.util.Log;
+import model.IntroPage;
+import util.Log;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

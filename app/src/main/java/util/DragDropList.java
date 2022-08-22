@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.util;
+package util;
 
 /**
  *
  * @author Nico
  */
-import ELschleifentool.model.Constants;
-import ELschleifentool.model.Schiffstyp;
+import model.Constants;
+import model.Schiffstyp;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;

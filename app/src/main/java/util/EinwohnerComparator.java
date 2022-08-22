@@ -1,4 +1,4 @@
-package ELschleifentool.util;
+package util;
 
 import java.util.Comparator;
 

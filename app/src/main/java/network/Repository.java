@@ -3,18 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.network;
+package network;
 
-import ELschleifentool.interfaces.NetworkInterface;
-import ELschleifentool.model.ConstructionPage;
-import ELschleifentool.util.Callback;
-import ELschleifentool.model.ProductionPage;
-import ELschleifentool.model.SchiffsbauschleifenPaket;
-import ELschleifentool.model.ProdParameter;
-import ELschleifentool.model.MyPlani;
-import ELschleifentool.model.NavigationPage;
-import ELschleifentool.model.PlanetenPage;
-import ELschleifentool.model.SchiffsbauParam;
+import interfaces.NetworkInterface;
+import model.ConstructionPage;
+import util.Callback;
+import model.ProductionPage;
+import model.SchiffsbauschleifenPaket;
+import model.ProdParameter;
+import model.MyPlani;
+import model.NavigationPage;
+import model.PlanetenPage;
+import model.SchiffsbauParam;
 import java.util.List;
 import okhttp3.MediaType;
 import okhttp3.RequestBody;

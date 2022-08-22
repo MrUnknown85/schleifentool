@@ -2,21 +2,21 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ELschleifentool.gebäude;
+package gebäude;
 
-import ELschleifentool.interfaces.NetworkInterface;
-import ELschleifentool.model.Constants;
-import ELschleifentool.model.ConstructionPage;
-import ELschleifentool.model.GebäudeBaukosten;
-import ELschleifentool.model.MyPlani;
-import ELschleifentool.model.NavigationPage;
-import ELschleifentool.model.PlanetIdPair;
-import ELschleifentool.model.PlanetenPage;
-import ELschleifentool.model.PlaniState;
-import ELschleifentool.model.Ress;
-import ELschleifentool.model.Schiffstyp;
-import ELschleifentool.ui.MainPanel;
-import ELschleifentool.util.Log;
+import interfaces.NetworkInterface;
+import model.Constants;
+import model.ConstructionPage;
+import model.GebäudeBaukosten;
+import model.MyPlani;
+import model.NavigationPage;
+import model.PlanetIdPair;
+import model.PlanetenPage;
+import model.PlaniState;
+import model.Ress;
+import model.Schiffstyp;
+import ui.MainPanel;
+import util.Log;
 import java.awt.Color;
 import java.io.BufferedReader;
 import java.io.File;

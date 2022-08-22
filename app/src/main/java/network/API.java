@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ELschleifentool.network;
+package network;
 
-import ELschleifentool.model.ConstructionPage;
-import ELschleifentool.model.NavigationPage;
-import ELschleifentool.model.PlanetenPage;
-import ELschleifentool.model.ProductionPage;
-import ELschleifentool.model.IntroPage;
+import model.ConstructionPage;
+import model.NavigationPage;
+import model.PlanetenPage;
+import model.ProductionPage;
+import model.IntroPage;
 import okhttp3.RequestBody;
 import okhttp3.ResponseBody;
 import retrofit2.Call;

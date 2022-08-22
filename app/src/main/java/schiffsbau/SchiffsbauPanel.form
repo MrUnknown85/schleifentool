@@ -1027,7 +1027,7 @@
 
               <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
               <SubComponents>
-                <Component class="ELschleifentool.util.DragDropList" name="dragDropList1">
+                <Component class="util.DragDropList" name="dragDropList1">
                 </Component>
               </SubComponents>
             </Container>

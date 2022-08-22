@@ -2,10 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package ELschleifentool.ui;
+package ui;
 
-import ELschleifentool.interfaces.LoginListener;
-import ELschleifentool.util.ClipboardListener;
+import interfaces.LoginListener;
+import util.ClipboardListener;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import javax.swing.event.DocumentEvent;

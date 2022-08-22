@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.model;
+package model;
 
-import ELschleifentool.model.Koords;
-import ELschleifentool.model.Schiffstyp;
+import model.Koords;
+import model.Schiffstyp;
 import java.util.Comparator;
 import java.util.EnumMap;
 import java.util.Objects;

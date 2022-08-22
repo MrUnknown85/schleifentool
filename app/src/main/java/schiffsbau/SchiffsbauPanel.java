@@ -2,18 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
-package ELschleifentool.schiffsbau;
+package schiffsbau;
 
-import ELschleifentool.schiffsbau.SchiffsbauTool;
-import ELschleifentool.util.MyIntFilter;
-import ELschleifentool.util.PathCellRenderer;
-import ELschleifentool.util.TransparentListCellRenderer;
-import ELschleifentool.util.DauerComparator;
-import ELschleifentool.util.EinwohnerComparator;
-import ELschleifentool.util.KoordsComparator;
-import ELschleifentool.model.MyPlani;
-import ELschleifentool.model.Schiffstyp;
-import ELschleifentool.network.Repository;
+import schiffsbau.SchiffsbauTool;
+import util.MyIntFilter;
+import util.PathCellRenderer;
+import util.TransparentListCellRenderer;
+import util.DauerComparator;
+import util.EinwohnerComparator;
+import util.KoordsComparator;
+import model.MyPlani;
+import model.Schiffstyp;
+import network.Repository;
 import java.awt.Color;
 import java.awt.Component;
 import java.util.ArrayList;
@@ -444,7 +444,7 @@ public class SchiffsbauPanel extends javax.swing.JPanel implements SchiffsbauUse
         btn_schleifen_füllen2 = new javax.swing.JButton();
         cb_siedler_schleifen_ignorieren = new javax.swing.JCheckBox();
         jScrollPane1 = new javax.swing.JScrollPane();
-        dragDropList1 = new ELschleifentool.util.DragDropList();
+        dragDropList1 = new util.DragDropList();
 
         setBackground(new java.awt.Color(0, 0, 0));
 
@@ -1114,7 +1114,7 @@ public class SchiffsbauPanel extends javax.swing.JPanel implements SchiffsbauUse
     private javax.swing.JComboBox<String> cmb_schleifen_einwohner_min_prozent_anz;
     private javax.swing.JComboBox<String> cmb_schleifen_fill_art;
     private javax.swing.JComboBox<String> cmb_schleifen_max_tage_stunden;
-    private ELschleifentool.util.DragDropList dragDropList1;
+    private util.DragDropList dragDropList1;
     private javax.swing.JTextField edt_menge;
     private javax.swing.JTextField edt_schleifen_einwohner_min;
     private javax.swing.JTextField edt_schleifen_max_tage;

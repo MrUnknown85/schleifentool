@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.model;
+package model;
 
 public enum GebäudeTyp {
     HAUPTQUARTIER, BIOZELLE, BUNKER, FARM, EISENMINE, TITANMINE, BOHRTURM,

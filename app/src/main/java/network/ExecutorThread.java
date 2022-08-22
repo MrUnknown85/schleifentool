@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.network;
+package network;
 
-import ELschleifentool.model.BotschutzClickListener;
-import ELschleifentool.model.BotschutzInterface;
-import ELschleifentool.model.BotschutzParams;
-import ELschleifentool.model.BotschutzResponse;
-import ELschleifentool.util.Callback;
-import ELschleifentool.util.Log;
-import ELschleifentool.util.Pair;
+import model.BotschutzClickListener;
+import model.BotschutzInterface;
+import model.BotschutzParams;
+import model.BotschutzResponse;
+import util.Callback;
+import util.Log;
+import util.Pair;
 import java.io.IOException;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

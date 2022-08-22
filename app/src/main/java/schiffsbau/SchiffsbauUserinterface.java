@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ELschleifentool.schiffsbau;
+package schiffsbau;
 
-import ELschleifentool.model.Schiffstyp;
+import model.Schiffstyp;
 import java.util.List;
 
 /**

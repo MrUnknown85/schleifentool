@@ -3,22 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ELschleifentool.schiffsbau;
+package schiffsbau;
 
-import ELschleifentool.interfaces.NetworkInterface;
-import ELschleifentool.util.Log;
-import ELschleifentool.model.Constants;
-import ELschleifentool.model.Ress;
-import ELschleifentool.model.ProductionPage;
-import ELschleifentool.model.NavigationPage;
-import ELschleifentool.model.Rasse;
-import ELschleifentool.model.SchiffsbauschleifenPaket;
-import ELschleifentool.model.PlanetIdPair;
-import ELschleifentool.model.ProdParameter;
-import ELschleifentool.model.Schleife;
-import ELschleifentool.model.Schiffstyp;
-import ELschleifentool.model.Koords;
-import ELschleifentool.model.MyPlani;
+import interfaces.NetworkInterface;
+import util.Log;
+import model.Constants;
+import model.Ress;
+import model.ProductionPage;
+import model.NavigationPage;
+import model.Rasse;
+import model.SchiffsbauschleifenPaket;
+import model.PlanetIdPair;
+import model.ProdParameter;
+import model.Schleife;
+import model.Schiffstyp;
+import model.Koords;
+import model.MyPlani;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

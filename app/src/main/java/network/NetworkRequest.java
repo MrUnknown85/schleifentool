@@ -2,23 +2,23 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ELschleifentool.network;
+package network;
 
 /**
  *
  * @author nico
  */
-import ELschleifentool.model.BotschutzClickListener;
-import ELschleifentool.model.BotschutzInterface;
-import ELschleifentool.model.BotschutzParams;
-import ELschleifentool.model.BotschutzResponse;
-import ELschleifentool.model.ConstructionPage;
-import ELschleifentool.model.NavigationPage;
-import ELschleifentool.model.PlanetenPage;
-import ELschleifentool.model.ProductionPage;
-import ELschleifentool.model.IntroPage;
-import ELschleifentool.util.Callback;
-import ELschleifentool.util.Log;
+import model.BotschutzClickListener;
+import model.BotschutzInterface;
+import model.BotschutzParams;
+import model.BotschutzResponse;
+import model.ConstructionPage;
+import model.NavigationPage;
+import model.PlanetenPage;
+import model.ProductionPage;
+import model.IntroPage;
+import util.Callback;
+import util.Log;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.io.IOException;

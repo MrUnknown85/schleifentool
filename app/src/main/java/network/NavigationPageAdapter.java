@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ELschleifentool.network;
+package network;
 
-import ELschleifentool.model.NavigationPage;
-import ELschleifentool.model.PlanetIdPair;
-import ELschleifentool.model.MyPlani;
-import ELschleifentool.model.PlaniState;
+import model.NavigationPage;
+import model.PlanetIdPair;
+import model.MyPlani;
+import model.PlaniState;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.regex.Matcher;

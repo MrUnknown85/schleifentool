@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package ELschleifentool.network;
+package network;
 
-import ELschleifentool.util.Log;
-import ELschleifentool.model.ProductionPage;
-import ELschleifentool.model.SchiffsbauschleifenPaket;
-import ELschleifentool.model.PlanetIdPair;
-import ELschleifentool.model.Schiffstyp;
-import ELschleifentool.model.MyPlani;
+import util.Log;
+import model.ProductionPage;
+import model.SchiffsbauschleifenPaket;
+import model.PlanetIdPair;
+import model.Schiffstyp;
+import model.MyPlani;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
